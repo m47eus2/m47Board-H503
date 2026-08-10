@@ -9,6 +9,7 @@
 		(date "2026-04-28")
 		(rev "0.1")
 		(company "m47eus2")
+		(comment 1 "https://github.com/m47eus2/m47Board-H503")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x10_Pin"
@@ -5713,6 +5714,8 @@
 		(effects
 			(font
 				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
 			)
 		)
 		(uuid "21ffd2b3-9617-4b79-8f01-8ac6c985f66b")
@@ -5774,6 +5777,8 @@
 		(effects
 			(font
 				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
 			)
 		)
 		(uuid "8929e709-b1c7-416f-b055-4d5d286fb13f")
@@ -5805,6 +5810,8 @@
 		(effects
 			(font
 				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
 			)
 		)
 		(uuid "9b4a01fc-e2b7-478b-87ed-440621d3396e")
@@ -5825,6 +5832,8 @@
 		(effects
 			(font
 				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
 			)
 		)
 		(uuid "9f75c72e-9970-4ed3-8bcb-e4c58c665869")
