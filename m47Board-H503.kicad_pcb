@@ -1801,13 +1801,13 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "F.Cu")
 		(uuid "218a3144-9a1f-48a0-b4eb-3720356ba6f0")
-		(at 148.18 102.9)
+		(at 149.09 102.9)
 		(descr "SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U3"
 			(at 0 -2.24 0)
 			(layer "F.SilkS")
-			(uuid "2434423e-6bff-4934-abd4-86f4e187311f")
+			(uuid "89d7c423-ca39-43bd-90bb-2d2214d2cf08")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -1818,7 +1818,7 @@
 		(property "Value" "USBLC6-2SC6"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(uuid "6ef65718-f0c9-4e7d-9fe5-9a9714cf0657")
+			(uuid "b81db517-308f-48b3-922c-e266366a0602")
 			(effects
 				(font
 					(size 1 1)
@@ -1830,7 +1830,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef374577-fb50-476f-8471-e4ea23bef31c")
+			(uuid "bd4e518e-4093-422f-9700-93d6cc5f0797")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1841,7 +1841,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e3a7ec1-fc0b-4fcc-82b5-3ab00d024612")
+			(uuid "ebd75210-b039-4c43-aa0b-06eb39484ca4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7415,13 +7415,13 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "eda8de16-00f0-4c5c-bb7e-2d4091b8bc69")
-		(at 147.63 105.2 180)
+		(at 148.54 105.2 180)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C11"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
-			(uuid "a6a32a9c-7fe6-4bf5-8ba0-b64e7a98daf8")
+			(uuid "0482782f-d825-4b0c-9af9-fc2630dde541")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -7432,7 +7432,7 @@
 		(property "Value" "100n"
 			(at 0 1.16 0)
 			(layer "F.Fab")
-			(uuid "e6a8d0b3-67cf-4cd5-9090-1374c80a4938")
+			(uuid "00f8df3a-8c12-446f-8b6c-13b65998eaaf")
 			(effects
 				(font
 					(size 1 1)
@@ -7444,7 +7444,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "71e54a5e-2b2b-4d31-a3cd-390e3fc24328")
+			(uuid "e247fd6d-9c22-4f81-afb6-fd3ff042686e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7455,7 +7455,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "272c3a48-952e-4b02-bc74-84c5d3c3596c")
+			(uuid "105bc091-c0c4-4603-b482-77f2e10feef0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9424,8 +9424,8 @@
 		(uuid "c0b8ae46-713a-47a0-9027-fd5345acf99e")
 	)
 	(segment
-		(start 148.55 102.9)
-		(end 149.3175 102.9)
+		(start 149.46 102.9)
+		(end 150.2275 102.9)
 		(width 0.4)
 		(layer "F.Cu")
 		(net "VBUS")
@@ -9440,16 +9440,16 @@
 		(uuid "0a6d9411-2798-4c27-96dc-7f0b54230f42")
 	)
 	(segment
-		(start 148.1975 105.2)
-		(end 148.1975 103.2525)
+		(start 149.1075 105.2)
+		(end 149.1075 103.2525)
 		(width 0.4)
 		(layer "F.Cu")
 		(net "VBUS")
 		(uuid "0c35bdc4-8112-4cf7-b58a-a94f8eddf441")
 	)
 	(segment
-		(start 148.9 102.9)
-		(end 149.3175 102.9)
+		(start 149.81 102.91)
+		(end 150.2275 102.91)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "VBUS")
@@ -9496,8 +9496,8 @@
 		(uuid "d6ea756f-a239-4fd0-b210-5f5ab51e5fee")
 	)
 	(segment
-		(start 148.1975 103.2525)
-		(end 148.55 102.9)
+		(start 149.1075 103.2525)
+		(end 149.46 102.9)
 		(width 0.4)
 		(layer "F.Cu")
 		(net "VBUS")
@@ -9760,52 +9760,44 @@
 		(uuid "c1fc48bb-b52f-46f1-82bf-56f107b33ba9")
 	)
 	(segment
-		(start 146.005039 102.61)
-		(end 146.665039 101.95)
+		(start 152.645 103.65)
+		(end 150.4275 103.65)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "/USB_D+")
-		(uuid "63769260-9e2c-452b-b917-9ac997648a55")
+		(net "Net-(J1-D--PadA7)")
+		(uuid "080e3bbd-ebe0-4868-81fc-1cc5e6c25f8a")
 	)
 	(segment
-		(start 146.665039 101.95)
-		(end 147.0425 101.95)
+		(start 150.4275 103.65)
+		(end 150.2275 103.85)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "/USB_D+")
-		(uuid "644a6cb4-f87a-442e-8788-9b17bdc9007c")
+		(net "Net-(J1-D--PadA7)")
+		(uuid "65e6c0a5-d413-44bf-a8cd-2e8023bb4033")
 	)
 	(segment
-		(start 144.69 102.61)
-		(end 146.005039 102.61)
+		(start 150.4275 102.15)
+		(end 150.2275 101.95)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "/USB_D+")
-		(uuid "ccf7bd5c-0c31-4228-bd11-4b44b8b495f8")
+		(net "Net-(J1-D+-PadA6)")
+		(uuid "0a00a033-f41e-45ee-a86c-21f7bb9df636")
 	)
 	(segment
-		(start 144.69 103.11)
-		(end 145.96 103.11)
+		(start 152.6 102.14)
+		(end 152.645 102.185)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "/USB_D-")
-		(uuid "70014a04-0118-4175-b0e0-e451ef0040e8")
+		(net "Net-(J1-D+-PadA6)")
+		(uuid "16bdbd46-3c1c-4799-b63d-249b630b025d")
 	)
 	(segment
-		(start 145.96 103.11)
-		(end 146.7 103.85)
+		(start 152.645 102.15)
+		(end 150.4275 102.15)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "/USB_D-")
-		(uuid "8ee6e1fd-b903-4b0b-a758-b43d914cffb4")
-	)
-	(segment
-		(start 146.7 103.85)
-		(end 147.0425 103.85)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/USB_D-")
-		(uuid "f639ccd3-64e6-4f34-8381-c3b58a712e54")
+		(net "Net-(J1-D+-PadA6)")
+		(uuid "f8b59936-98c9-43ee-ad8f-7a602ac356e6")
 	)
 	(segment
 		(start 131.95 100.4775)
@@ -10150,46 +10142,6 @@
 		(layer "F.Cu")
 		(net "/BOOT0")
 		(uuid "e5cf1f79-79f3-4c46-8bf9-2d6ebec13b5a")
-	)
-	(segment
-		(start 152.6 102.14)
-		(end 152.645 102.185)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(J1-D+-PadA6)")
-		(uuid "16bdbd46-3c1c-4799-b63d-249b630b025d")
-	)
-	(segment
-		(start 149.5175 102.15)
-		(end 152.645 102.15)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(J1-D+-PadA6)")
-		(uuid "5d27dc1c-ce0e-4b2d-9171-c9a04d6dd9a9")
-	)
-	(segment
-		(start 149.3175 101.95)
-		(end 149.5175 102.15)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(J1-D+-PadA6)")
-		(uuid "8f90dcc5-e662-4a40-a6fb-fb4a1293abe3")
-	)
-	(segment
-		(start 149.5175 103.65)
-		(end 152.645 103.65)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(J1-D--PadA7)")
-		(uuid "6d34354f-b0ea-41e6-96c2-b3a02f81f096")
-	)
-	(segment
-		(start 149.3175 103.85)
-		(end 149.5175 103.65)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(J1-D--PadA7)")
-		(uuid "ab61b6f3-06ba-42c7-8757-956524fa7abe")
 	)
 	(embedded_fonts no)
 )
