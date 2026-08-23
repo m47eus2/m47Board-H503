@@ -217,6 +217,7 @@
       "track_widths": [
         0.0,
         0.2,
+        0.3,
         0.4
       ],
       "tuning_pattern_settings": {
@@ -537,6 +538,8 @@
         "wire_width": 6
       },
       {
+        "diff_pair_gap": 0.15,
+        "diff_pair_width": 0.32,
         "name": "90R-diff",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
