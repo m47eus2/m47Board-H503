@@ -10265,7 +10265,7 @@
 		)
 	)
 	(gr_text "m47Board-H503"
-		(at 159.3 91.05 0)
+		(at 158.35 90.7 0)
 		(layer "B.SilkS" knockout)
 		(uuid "cc9ef306-e1ca-40d1-a06f-207774a73861")
 		(effects
@@ -10276,6 +10276,18 @@
 			)
 			(justify left bottom mirror)
 		)
+	)
+	(barcode
+		(at 140 103 0)
+		(layer "B.SilkS")
+		(size 23 23)
+		(text "https://github.com/m47eus2/m47Board-H503")
+		(text_height 0.7)
+		(type qr)
+		(ecc_level L)
+		(hide yes)
+		(knockout no)
+		(uuid "3828ccfa-1252-4970-8254-2929b0daf9cb")
 	)
 	(segment
 		(start 150.9 105.09)
