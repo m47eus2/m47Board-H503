@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "m47Board-H503")
+		(date "2026-09-05")
+		(rev "0.0.0")
+		(company "m47eus2")
+		(comment 1 "https://github.com/m47eus2/m47Board-H503")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(4 "In1.Cu" signal)
@@ -10262,6 +10269,19 @@
 				(bold yes)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text "Rev 0.0.0"
+		(at 158.3 91.8 0)
+		(layer "B.SilkS")
+		(uuid "818809ca-356b-4328-8264-4577407099e7")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "m47Board-H503"

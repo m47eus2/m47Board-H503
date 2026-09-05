@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "m47Board-H503")
-		(date "2026-04-28")
-		(rev "0.1")
+		(date "2026-09-05")
+		(rev "0.0.0")
 		(company "m47eus2")
 		(comment 1 "https://github.com/m47eus2/m47Board-H503")
 	)
