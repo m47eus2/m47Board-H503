@@ -10232,8 +10232,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "VBUS"
-		(at 155.325 93.55 0)
+	(gr_text "_VBUS_"
+		(at 154.77 93.55 0)
 		(layer "F.SilkS" knockout)
 		(uuid "565a2471-b7b2-441d-8858-fa4b7ae9db94")
 		(effects
