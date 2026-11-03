@@ -13,3 +13,7 @@
 
 ![](/img/m47Board-H503.png)
 ![](/img/m47Board-H503-top.png)
+
+## Schematic
+
+![](/img/m47Board-H503.svg)
